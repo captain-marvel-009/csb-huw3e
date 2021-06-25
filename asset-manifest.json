@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://captain-marvel-009.github.io/csb-huw3e/static/css/main.7312cd56.chunk.css",
+    "main.js": "https://captain-marvel-009.github.io/csb-huw3e/static/js/main.ed7d6a35.chunk.js",
+    "main.js.map": "https://captain-marvel-009.github.io/csb-huw3e/static/js/main.ed7d6a35.chunk.js.map",
+    "runtime-main.js": "https://captain-marvel-009.github.io/csb-huw3e/static/js/runtime-main.a1c70147.js",
+    "runtime-main.js.map": "https://captain-marvel-009.github.io/csb-huw3e/static/js/runtime-main.a1c70147.js.map",
+    "static/js/2.b8ad4a89.chunk.js": "https://captain-marvel-009.github.io/csb-huw3e/static/js/2.b8ad4a89.chunk.js",
+    "static/js/2.b8ad4a89.chunk.js.map": "https://captain-marvel-009.github.io/csb-huw3e/static/js/2.b8ad4a89.chunk.js.map",
+    "index.html": "https://captain-marvel-009.github.io/csb-huw3e/index.html",
+    "static/css/main.7312cd56.chunk.css.map": "https://captain-marvel-009.github.io/csb-huw3e/static/css/main.7312cd56.chunk.css.map",
+    "static/js/2.b8ad4a89.chunk.js.LICENSE.txt": "https://captain-marvel-009.github.io/csb-huw3e/static/js/2.b8ad4a89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c70147.js",
+    "static/js/2.b8ad4a89.chunk.js",
+    "static/css/main.7312cd56.chunk.css",
+    "static/js/main.ed7d6a35.chunk.js"
+  ]
+}
